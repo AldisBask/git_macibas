@@ -1,3 +1,7 @@
+.body{
+  background-color: chartreuse;
+}
+
 .title {
   font-size: 50px;
   color: blueviolet;
@@ -6,4 +10,5 @@
 .text {
   font-size: large;
   color: red;
+  font-family: align-items: ;
 }
